@@ -50,11 +50,7 @@ Quit the project, it's not worth it.
 
 Since you didn't implement it, I did.
 
-5. Why did you choose this name for the package?
-
-Don't question my decisions. It took me 3 days to make this decision.
-
-6. Is this package needed?
+5. Is this package needed?
 
 Depends.
 
