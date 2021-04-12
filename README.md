@@ -31,7 +31,7 @@ MIDDLEWARE = [
 ```
 
 ### Working?
-To test it's working, visit a random URL on your webapp and check that your IP has been added to the list.
+To test it's working, visit a random URL on your webapp and check that your IP has been added to the list, viewing from the admin panel.
 
 ## FAQs
 1. Why don't you save other stuffs like requests, responses, response time, queries, url paths and the sorts?
