@@ -35,22 +35,28 @@ To test it's working, visit a random URL on your webapp and check that your IP h
 
 ## FAQs
 1. Why don't you save other stuffs like requests, responses, response time, queries, url paths and the sorts?
-    For the sake of generalization and to prevent bloating, I've decided to save only IPs, first visit and recent visit time. This is to ensure your DB is not populated with lots of rows for the sake of 'robust-ness'. Most web apps won't need it. If you do, implement it yourself, you've got the `IPAdress` model there for you.
+
+For the sake of generalization and to prevent bloating, I've decided to save only IPs, first visit and recent visit time. This is to ensure your DB is not populated with lots of rows for the sake of 'robust-ness'. Most web apps won't need it. If you do, implement it yourself, you've got the `IPAdress` model there for you.
 
 2. Do I need additional configurations?
-    No, boss... You don't.
+
+No, boss... You don't.
 
 3. Nothing's working, I've tried every possible option
-    Quit the project, it's not worth it.
+
+Quit the project, it's not worth it.
 
 4. This stuff is too simple, why implement it?
-    Since you didn't implement it, I did.
+
+Since you didn't implement it, I did.
 
 5. Why did you choose this name for the package?
-    Don't question my decisions. It took me 3 days to make this decision.
+
+Don't question my decisions. It took me 3 days to make this decision.
 
 6. Is this package needed?
-    Depends.
+
+Depends.
 
 ## Bugs?
 Raise an issue, I'll check it out.
