@@ -9,3 +9,7 @@ class IPAddress(models.Model):
     def __str__(self):
         return self.ip
 
+    class Meta:
+        verbose_name = "IP address"
+        verbose_name_plural = "IP addresses"
+
