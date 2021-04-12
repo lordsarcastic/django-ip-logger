@@ -1,9 +1,7 @@
-# IP logger
+# Django IP logger
 Django application for saving IP adresses visiting a web application.
 
 ## Intro
-*Note: 'log' in the context of this app refers to saving to database. 
-
 As your web application scales, you will often encounter different reasons to keep track of IP's for various reasons. Perhaps, you just rolled out an Advert application and need to track visits and interactions in the back-end; or maybe an 'evil' IP address continously pesters your endpoints without provocation; better still, you need to track visitors across web pages on a 'IP' basis rather than just sessions.
 
 Or perhaps, you have this biting need to have fun and fill production DBs with IP adresses whether you need it or not.
